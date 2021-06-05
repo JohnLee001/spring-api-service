@@ -1,0 +1,24 @@
+五月 29, 2021 6:41:20 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find java src paths:  [E:\workSpace\ideaWorkSpace\spring-boot-api\src\main\java\]
+五月 29, 2021 6:41:20 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: project type not set, try to figure out...
+五月 29, 2021 6:41:20 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start find controllers in path : E:\workSpace\ideaWorkSpace\spring-boot-api\src\main\java\
+五月 29, 2021 6:41:20 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find controller file : UserController.java
+五月 29, 2021 6:41:20 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to parse controller file : UserController.java
+五月 29, 2021 6:41:20 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to parse controller file : UserController.java
+五月 29, 2021 6:41:20 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate api docs start...
+五月 29, 2021 6:41:20 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to generate docs for controller file : E:\workSpace\ideaWorkSpace\spring-boot-api\src\main\java\com\lcc\japi\controller\UserController.java
+五月 29, 2021 6:41:20 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to generate docs for controller file : E:\workSpace\ideaWorkSpace\spring-boot-api\src\main\java\com\lcc\japi\controller\UserController.java
+五月 29, 2021 6:41:20 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate index start !!!
+五月 29, 2021 6:41:20 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate index done !!!
+五月 29, 2021 6:41:20 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate api docs done !!!
